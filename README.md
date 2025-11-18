@@ -1,4 +1,5 @@
-## <img src="https://img.shields.io/badge/-000?style=flat&logo=flask&logoColor=white" width="40"> Meu projeto  Flask 
+## Meu projeto  Flask <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
              
           
 
