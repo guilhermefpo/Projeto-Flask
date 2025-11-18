@@ -1,5 +1,5 @@
-## Meu projeto  Flask 
-             <i class="devicon-flask-original-wordmark colored"></i>
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" /> Meu projeto  Flask 
+             
           
 
 # Projetinho
