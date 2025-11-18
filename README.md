@@ -1,4 +1,4 @@
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" /> Meu projeto  Flask 
+## <img src="https://img.shields.io/badge/-000?style=flat&logo=flask&logoColor=white" width="40"> Meu projeto  Flask 
              
           
 
